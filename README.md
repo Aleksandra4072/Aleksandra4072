@@ -4,7 +4,6 @@
 
 &nbsp; My goal is to add as much value to a company while simultaneously learning new professional techniques and skills to further develop my career.
 
----
 
 # 😊 &nbsp; Interpersonal skills:
 
@@ -16,7 +15,6 @@
 - Competent
 - Diligent
 
----
 
 # 🤓 &nbsp; Technical stack
 
@@ -32,7 +30,6 @@
     <img src="./assets/postman.svg" alt="Postman" width="50" height="50"/>
 </div>
 
----
 
 ## Version Control Tools
 <div>
@@ -40,16 +37,12 @@
     <img src="./assets/gitlab.svg" alt="Gitlab" width="50" height="50"/>
 </div>
 
----
-
 ## Databases
 <div>
     <img src="./assets/mysql.svg" alt="MySql" width="50" height="50"/>
     <img src="assets/postgresql.svg" alt="Postgres" width="50" height="50"/>
     <img src="./assets/mongo.svg" alt="Mongo" width="50" height="50"/>
 </div>
-
----
 
 ##  What I used
 <div>
@@ -62,7 +55,6 @@
     <img src="./assets/helm.svg" alt="Helm" width="50" height="50"/>
 </div>
 
----
 
 # 🫡 &nbsp; Contact me
 
