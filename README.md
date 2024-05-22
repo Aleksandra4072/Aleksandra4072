@@ -63,10 +63,11 @@
 
 # 🫡 &nbsp; Contact me
 
+```angular2html
+ligay.aleksandra1996@gmail.com
+```
+
 <a href="www.linkedin.com/in/aleksandra-ligay-349775292">
     <img src="./assets/linkedin.svg" alt="LinkedIn" width="50" height="50"/>
 </a>
 
-```angular2html
-ligay.aleksandra1996@gmail.com
-```
