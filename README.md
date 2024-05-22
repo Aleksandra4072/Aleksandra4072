@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Ligay%20Aleksandra%20✨&fontAlign=67&fontAlignY=70&fontSize=60&animation=twinkling)
 
+---
+
 # 😏 &nbsp; A little bit about myself
 
 &nbsp; My goal is to add as much value to a company while simultaneously learning new professional techniques and skills to further develop my career.
 
+--- 
 
 # 😊 &nbsp; Interpersonal skills:
 
@@ -15,6 +18,7 @@
 - Competent
 - Diligent
 
+---
 
 # 🤓 &nbsp; Technical stack
 
@@ -55,6 +59,7 @@
     <img src="./assets/helm.svg" alt="Helm" width="50" height="50"/>
 </div>
 
+---
 
 # 🫡 &nbsp; Contact me
 
