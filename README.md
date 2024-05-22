@@ -21,7 +21,7 @@
 # 🤓 &nbsp; Technical stack
 
 ## My Hard Skills
-<p align="left">
+<div>
     <img src="./assets/java.svg" alt="Java" width="50" height="50"/>
     <img src="./assets/js.svg" alt="JS" width="50" height="50"/>
     <img src="./assets/sql.svg" alt="SQL" width="50" height="50"/>
@@ -30,30 +30,30 @@
     <img src="./assets/css3.svg" alt="CSS" width="50" height="50"/>
     <img src="./assets/html.svg" alt="HTML" width="50" height="50"/>
     <img src="./assets/postman.svg" alt="Postman" width="50" height="50"/>
-</p>
+</div>
 
 
 ---
 
 ## Versioning
-<p align="left">
+<div>
     <img src="./assets/github.svg" alt="Github" width="50" height="50"/>
     <img src="./assets/gitlab.svg" alt="Gitlab" width="50" height="50"/>
-</p>
+</div>
 
 ---
 
 ## DB that I worked with
-<p align="left">
+<div>
     <img src="./assets/mysql.svg" alt="MySql" width="50" height="50"/>
     <img src="assets/postgresql.svg" alt="Postgres" width="50" height="50"/>
     <img src="./assets/mongo.svg" alt="Mongo" width="50" height="50"/>
-</p>
+</div>
 
 ---
 
 ##  Some Tools I have used
-<p align="left">
+<div>
     <img src="./assets/tailwind.svg" alt="Tailwind" width="50" height="50"/>
     <img src="./assets/vercel.svg" alt="Vercel" width="50" height="50"/>
     <img src="./assets/go.svg" alt="GO" width="50" height="50"/>
@@ -61,7 +61,7 @@
     <img src="./assets/node-js.svg" alt="NodeJS" width="50" height="50"/>
     <img src="./assets/docker.svg" alt="Docker" width="50" height="50"/>
     <img src="./assets/helm.svg" alt="Helm" width="50" height="50"/>
-</p>
+</div>
 
 ---
 
