@@ -2,7 +2,7 @@
 
 ---
 
-# 😏 &nbsp; A little bit about myself
+# 😏 &nbsp; Objective
 
 &nbsp; My goal is to add as much value to a company while simultaneously learning new professional techniques and skills to further develop my career.
 
@@ -30,6 +30,7 @@
     <img src="./assets/spring.svg" alt="Spring" width="50" height="50"/>
     <img src="./assets/react.svg" alt="React" width="50" height="50"/>
     <img src="./assets/css3.svg" alt="CSS" width="50" height="50"/>
+<img src="./assets/tailwind.svg" alt="Tailwind" width="50" height="50"/>
     <img src="./assets/html.svg" alt="HTML" width="50" height="50"/>
     <img src="./assets/postman.svg" alt="Postman" width="50" height="50"/>
 </div>
@@ -48,13 +49,12 @@
     <img src="./assets/mongo.svg" alt="Mongo" width="50" height="50"/>
 </div>
 
-##  What I used
+##  What I had experience with
 <div>
-    <img src="./assets/tailwind.svg" alt="Tailwind" width="50" height="50"/>
-    <img src="./assets/vercel.svg" alt="Vercel" width="50" height="50"/>
     <img src="./assets/go.svg" alt="GO" width="50" height="50"/>
     <img src="./assets/python.svg" alt="Python" width="50" height="50"/>
     <img src="./assets/node-js.svg" alt="NodeJS" width="50" height="50"/>
+    <img src="./assets/typescript.svg" alt="Docker" width="50" height="50"/>
     <img src="./assets/docker.svg" alt="Docker" width="50" height="50"/>
     <img src="./assets/helm.svg" alt="Helm" width="50" height="50"/>
 </div>
@@ -66,3 +66,7 @@
 <a href="www.linkedin.com/in/aleksandra-ligay-349775292">
     <img src="./assets/linkedin.svg" alt="LinkedIn" width="50" height="50"/>
 </a>
+
+```angular2html
+ligay.aleksandra1996@gmail.com
+```
