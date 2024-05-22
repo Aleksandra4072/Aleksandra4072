@@ -20,7 +20,7 @@
 
 # 🤓 &nbsp; Technical stack
 
-## My Hard Skills
+## What I know
 <div>
     <img src="./assets/java.svg" alt="Java" width="50" height="50"/>
     <img src="./assets/js.svg" alt="JS" width="50" height="50"/>
@@ -32,10 +32,9 @@
     <img src="./assets/postman.svg" alt="Postman" width="50" height="50"/>
 </div>
 
-
 ---
 
-## Versioning
+## Version Control Tools
 <div>
     <img src="./assets/github.svg" alt="Github" width="50" height="50"/>
     <img src="./assets/gitlab.svg" alt="Gitlab" width="50" height="50"/>
@@ -43,7 +42,7 @@
 
 ---
 
-## DB that I worked with
+## Databases
 <div>
     <img src="./assets/mysql.svg" alt="MySql" width="50" height="50"/>
     <img src="assets/postgresql.svg" alt="Postgres" width="50" height="50"/>
@@ -52,7 +51,7 @@
 
 ---
 
-##  Some Tools I have used
+##  What I used
 <div>
     <img src="./assets/tailwind.svg" alt="Tailwind" width="50" height="50"/>
     <img src="./assets/vercel.svg" alt="Vercel" width="50" height="50"/>
