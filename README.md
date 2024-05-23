@@ -2,13 +2,13 @@
 
 ---
 
-# 😏 &nbsp; Objective
+# Objective
 
 &nbsp; My goal is to add as much value to a company while simultaneously learning new professional techniques and skills to further develop my career.
 
 --- 
 
-# 😊 &nbsp; Interpersonal skills:
+# Interpersonal skills:
 
 - Teamplayer
 - Enthusiastic and self-directed
@@ -20,7 +20,7 @@
 
 ---
 
-# 🤓 &nbsp; Technical stack
+# Technical stack
 
 ## What I know
 <div>
@@ -49,7 +49,7 @@
     <img src="./assets/mongo.svg" alt="Mongo" width="50" height="50"/>
 </div>
 
-##  What I had experience with
+## What I had experience with
 <div>
     <img src="./assets/go.svg" alt="GO" width="50" height="50"/>
     <img src="./assets/python.svg" alt="Python" width="50" height="50"/>
@@ -61,13 +61,13 @@
 
 ---
 
-# 🫡 &nbsp; Contact me
+# Contact me
 
 ```angular2html
 ligay.aleksandra1996@gmail.com
 ```
 
-<a href="www.linkedin.com/in/aleksandra-ligay-349775292">
+<a href="https://www.linkedin.com/in/aleksandra-ligay-349775292">
     <img src="./assets/linkedin.svg" alt="LinkedIn" width="50" height="50"/>
 </a>
 
